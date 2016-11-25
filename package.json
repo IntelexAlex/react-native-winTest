@@ -1,0 +1,22 @@
+{
+  "name": "react-native-winTest",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-windows",
+    "windows"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.29.0",
+    "react-native-windows": "^0.29.0"
+  },
+  "devDependencies": {
+    "react-native-windows": "^0.37.0-rc.0"
+  }
+}
